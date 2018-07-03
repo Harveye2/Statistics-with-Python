@@ -13,10 +13,10 @@ In order to to determine if the average difference in the reaction times recorde
 
 ## Installation 
 The following python libraries were imported for the purpose of this project:
--  scipy.stats
+-  scipy
 -  numpy
 -  pandas
--  matplotlib.pyplot
+-  matplotlib
 
 ## Data
 The data used for this project is provided in this repository as stroopdata.csv
