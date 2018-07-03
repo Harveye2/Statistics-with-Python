@@ -1,4 +1,4 @@
-# Statistics-with-Python
+# Statistics-with-Python: Analysing the Stroop Effect
 
 ## Introduction
 This project is from the Udacity Data Analyst Nanodegree. The aim of this project was to investigate a classic phenomenon from experimental psychology called the Stroop Effect. The Stroop Effect is a demonstration of interference in the reaction time of a task. The Stroop task investigated for this project was a list of congruent and incongruent coloured words. The congruent words were colour words whose names matched the colors in which they were printed (eg. the word 'blue' is printed in blue ink). The incongruent words were colour words whose names did not match the colors in which they were printed (eg. the word 'blue' is printed in red ink).
